@@ -1,6 +1,6 @@
 {
   "name": "@moonstone78/npmaudit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "./lib/index.js",
   "type": "module",
@@ -10,7 +10,11 @@
   "bin": {
     "npmaudit": "./lib/index.js"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonasLarsson78/npmaudit.git"
+  },
+  "keywords": ["audits"],
   "preferGlobal": true,
   "author": "Jonas Larsson",
   "license": "ISC",
