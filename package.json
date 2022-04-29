@@ -1,0 +1,21 @@
+{
+  "name": "@moonstone78/npmaudit",
+  "version": "1.0.4",
+  "description": "",
+  "main": "./lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npmaudit": "./lib/index.js"
+  },
+  "keywords": [],
+  "preferGlobal": true,
+  "author": "Jonas Larsson",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1"
+  }
+}
