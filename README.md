@@ -27,6 +27,11 @@ Version:
 -version
 -v
 ```
+Latest version:
+```sh
+-latest
+-l
+```
 Fix audit (comming soon)
 ```sh
 -fix
