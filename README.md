@@ -10,7 +10,7 @@ Audit preitter
 
 ## Installation
 
-AuditGui requires [Node.js](https://nodejs.org/) v14+ to run.
+NpmAudit requires [Node.js](https://nodejs.org/) v14+ to run.
 
 
 ```sh
@@ -20,8 +20,20 @@ npm i -g @moonstone78/npmaudit
 ## Run
 ```sh
 npmaudit
-
-Example
+```
+## Options
+Version:
+```sh
+-version
+-v
+```
+Fix audit (comming soon)
+```sh
+-fix
+-f
+```
+## Preview
+```sh
 
 ┌ Mime ───────────────────────────────────────────────────────────┐
 │                                                                 │
