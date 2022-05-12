@@ -32,7 +32,7 @@ Latest version:
 -latest
 -l
 ```
-Fix audit (comming soon)
+Fix audit
 ```sh
 -fix
 -f
